@@ -1,0 +1,9 @@
+{
+  "enableAllProjectMcpServers": false,
+  "cleanupPeriodDays": 1,
+  "locale": "ja",
+  "language": "japanese",
+  "env": {
+    "hoge": "hogehoge"
+  }
+}
