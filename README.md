@@ -15,8 +15,8 @@
 - [Cursor Ignore Files](https://docs.cursor.com/context/ignore-files#default-ignore-list)
 - [書き捨てではなく継続開発可能なコードを Cursor Agent で書くために意識していること](https://dev.classmethod.jp/articles/cursor-agent-maintainable-coding-tips/)
 - [kinopeee/cursorrules]()https://github.com/kinopeee/cursorrules/tree/main 
-  - [directorystructure.md](https://raw.githubusercontent.com/kinopeee/cursorrules/refs/heads/main/directorystructure.md) ... ディレクトリ構成をCursorに伝えるためのファイル
-  - [technologystack.md](https://raw.githubusercontent.com/kinopeee/cursorrules/refs/heads/main/technologystack.md)
+  - [directorystructure.md](https://raw.githubusercontent.com/kinopeee/cursorrules/refs/heads/main/directorystructure.md) ... ディレクトリ構成をCursorに伝えるためのファイル. claude code 等でディレクトリ構成を作成すると楽。
+  - [technologystack.md](https://raw.githubusercontent.com/kinopeee/cursorrules/refs/heads/main/technologystack.md) ... 技術スタックをCursorに伝えるためのファイル
 ```sh
 --- .cursor
  |- rules/
